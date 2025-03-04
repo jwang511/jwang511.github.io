@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -20,5 +20,4 @@
       <footer>
         <p>3/3/2025</p>
     </footer>
-</body>
-</html>
+
