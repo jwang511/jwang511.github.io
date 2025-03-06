@@ -18,9 +18,9 @@
             <h2>About Me</h2>
             <p>Hello, my name is Justin and I am currently a freshman who is 15 years old. Some classes I am taking are calculus, chemistry, world</p> 
             
-<p>history, etc. I also participate in some extracurriculars such as decathlon and the varsity tennis team. My hobbies include hanging out with </p>
+<p>history, etc. I also participate in some extracurriculars such as decathlon and the varsity tennis team. My hobbies include hanging out</p>
         
-<p>friends and playing tennis.</p>
+<p>with friends and playing tennis.</p>
         </section>
 
 <img src="IMG_0098.jpeg"> <img src="image1.png"> <img src="te.png"> 
