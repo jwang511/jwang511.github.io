@@ -20,4 +20,4 @@
       <footer>
         <p>3/3/2025</p>
     </footer>
-[<img src="IMG_0098.jpeg">]([https://link-to-your-URL/](https://github.com/jwang511/jwang511.github.io/blob/main/IMG_0098.jpeg)
+<img src="IMG_0098.jpeg">
