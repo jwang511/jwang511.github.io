@@ -16,8 +16,10 @@
           <section id="about">
             <h2>About Me</h2>
             <p>Hello, my name is Justin and I am currently a freshman who is 15 years old. Some classes I am taking are calculus, chemistry, world history,</p> 
-                                
-              <!---div {line-height:20px;}--->
+            
+              <pre>     
+              div {line-height:20px;}
+              </pre>
 <p>etc. I also participate in some extracurriculars such as decathlon and the varsity tennis team. My hobbies include hanging out with friends</p>
         
         div {line-height:40px;}
