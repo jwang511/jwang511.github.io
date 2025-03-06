@@ -12,6 +12,7 @@
     body {
     background-color: lightblue;
 }
+    </body>
     <header>
     </header>
     <main>
@@ -23,8 +24,6 @@
         
 <p>and playing tennis.</p>
         </section>
-</head>
-</body>
 
 <img src="IMG_0098.jpeg"> <img src="image1.png"> <img src="te.png"> 
 
