@@ -22,7 +22,9 @@
 <p>and playing tennis.</p>
         </section>
 
+<center>
 <img src="IMG_0098.jpeg"> <img src="image1.png"> <img src="te.png"> 
+</center>
 
       <footer>
         <p>3/3/2025</p>
