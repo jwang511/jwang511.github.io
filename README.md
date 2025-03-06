@@ -21,10 +21,11 @@
         
 <p>and playing tennis.</p>
         </section>
-</body>
+
 
 <img src="IMG_0098.jpeg"> <img src="image1.png"> <img src="te.png"> 
 
+</body>
 
       <footer>
         <p>
