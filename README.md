@@ -20,4 +20,4 @@
       <footer>
         <p>3/3/2025</p>
     </footer>
-<img src="IMG_0098.jpeg">
+<img src="IMG_0098.jpeg"> <img src="math for code.png">
