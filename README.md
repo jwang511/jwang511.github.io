@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <body style="background-color:#20086C;">
     <header>
     </header>
     <main>
