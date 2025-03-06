@@ -9,10 +9,8 @@
 </head>
 
 <body>
-    body {
-    background-color: lightblue;
-}
-    </body>
+<body style="background-color:#1c87c9;">    
+</body>
     <header>
     </header>
     <main>
