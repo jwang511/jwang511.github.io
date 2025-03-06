@@ -9,6 +9,9 @@
 </head>
 
 <body>
+    body {
+    background-color: lightblue;
+}
     <header>
     </header>
     <main>
