@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    background-color: black;
+    background-color: lightblue;
     <header>
     </header>
     <main>
